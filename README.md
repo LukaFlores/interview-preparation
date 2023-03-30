@@ -12,8 +12,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Leetcode 
 
-- [Typescript](https://github.com/LukaFlores/interview-preparation/tree/master/leetcode/typescript) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- [C++](https://github.com/LukaFlores/interview-preparation/tree/master/leetcode/cpp) ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- [Typescript](https://github.com/LukaFlores/interview-preparation/tree/master/leetcode/typescript) 
+- [C++](https://github.com/LukaFlores/interview-preparation/tree/master/leetcode/cpp) 
+
 
 <!-- CONTACT -->
 ## Contact
