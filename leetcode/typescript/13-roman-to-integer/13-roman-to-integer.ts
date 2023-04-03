@@ -74,4 +74,5 @@ function romanToInt(s: string): number {
 	return total
 };
 
+console.log(romanToInt("III") + " | 3")
         
