@@ -64,6 +64,32 @@
 //     return longestlist;
 // };
 
+// Attempt #2
+
+function lengthOfLongestSubstring(s: string): number {
+
+    // Longest List Length
+    var longestList = 0;
+    var repeatedNumber : string[] = [] 
+
+    // String: "abcabcbb"
+
+    for(let i = 0; i < s.length; i++){
+        for(let j = i; j < s.length; j++){
+
+            if(repeatedNumber.includes(s[j])){
+                repeatedNumber = [];
+                break;
+            }
+
+            repeatedNumber.push(s[j]);
+            longestList = Math.max(longestList, repeatedNumber.length);
+
+        }
+    }
+
+    return longestList;
+};
 
 
 
